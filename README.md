@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darkohedgehog
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript at Zero to Mastery (zerotomastery.io)
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me: via email: zivic.darko79@gmail.com or LinkendIn.
 
