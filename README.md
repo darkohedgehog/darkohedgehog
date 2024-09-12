@@ -1,5 +1,5 @@
 <div align="center">
-<! --<img src="https://avatars.githubusercontent.com/u/126003050?s=400&u=8fc2c1165407822ed2a177e35d333d34292f96a5&v=4" align="center" style="width: 25%" />-->
+<!--<img src="https://avatars.githubusercontent.com/u/126003050?s=400&u=8fc2c1165407822ed2a177e35d333d34292f96a5&v=4" align="center" style="width: 25%" />-->
 </div>  
   
 
@@ -75,27 +75,3 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-
-
-### GitHub  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=darkohedgehog&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=darkohedgehog&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
