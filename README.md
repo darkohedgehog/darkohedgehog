@@ -2,7 +2,7 @@
 
 # Darko Živić
 
-<p><b>Senior Next.js Developer</b> • Full-Stack TypeScript Engineer</p>
+<p><b>Next.js Developer</b> • Full-Stack TypeScript Engineer</p>
 
 <p>Building modern <b>SaaS platforms, headless CMS systems and high-performance eCommerce applications</b></p>
 
