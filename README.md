@@ -150,5 +150,12 @@
 
 <p>GitHub</p>
 <p><a href="https://github.com/darkohedgehog">github.com/darkohedgehog</a></p>
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/darkohedgehog/darkohedgehog/output/github-contribution-grid-snake-dark.svg">
+
+</div>
 
 </div>
