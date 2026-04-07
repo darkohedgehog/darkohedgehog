@@ -158,26 +158,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=darkohedgehog&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  alt="Darko GitHub stats"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkohedgehog&layout=compact&theme=transparent&hide_border=true"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
 ## Contribution Graph
 
 <div align="center">
