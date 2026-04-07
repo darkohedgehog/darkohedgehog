@@ -6,7 +6,7 @@
 # Darko Živić
 
 <p>
-  <b>Senior Next.js Developer</b> • Full-Stack TypeScript Engineer
+  <b>Next.js Developer</b> • Full-Stack TypeScript Engineer
 </p>
 
 <p>
